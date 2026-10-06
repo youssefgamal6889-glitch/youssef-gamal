@@ -1,0 +1,32 @@
+.header {
+    background-color: #0080ff;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 50px;
+    margin: 0px 0px;
+}
+.links {
+    display: flex;
+    gap: 10px;
+}
+.links a {
+    color: #000000;
+    text-decoration: none;
+    font-weight: bold;
+    border-radius: 15px;
+    padding: 5px 10px;
+}
+.links a:hover {
+    background-color: #0056b3;
+    color: #ffffff; 
+}
+h1{
+    color: rgb(0, 255, 255);
+    width: 100%;
+    text-align: center;
+}
+body{
+    background-color: rgb(59, 46, 33);
+    color: aliceblue;
+}
